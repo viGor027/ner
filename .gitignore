@@ -2,3 +2,4 @@ model.h5
 model.keras
 model_final.h5
 model_final.keras
+__pycache__
