@@ -1,0 +1,8 @@
+|Best Value So Far |Hyperparameter
+|256               |units_0
+|1                 |num_layers
+|0.001             |learning_rate
+|480               |units_1
+|32                |units_2
+|32                |units_3
+|480               |units_4
